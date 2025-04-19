@@ -1,0 +1,13 @@
+# Binaries
+/go-init
+/bin/
+
+# Vendor and local files
+/vendor/
+*.log
+.env
+.git
+.gitignore
+docker-compose.yml
+**/__pycache__/
+prometheus.yml

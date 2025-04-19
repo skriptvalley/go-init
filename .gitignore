@@ -1,0 +1,18 @@
+# Dependencies
+/vendor/
+
+# Binaries
+/bin/
+/build/
+*.exe
+*.out
+
+# IDEs
+.vscode/
+.idea/
+
+# Env files
+.env
+
+# OS
+.DS_Store
